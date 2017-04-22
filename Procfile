@@ -1,1 +1,1 @@
-web: node./MyRandomUser/server.js
+web: node ./MyRandomUser/server.js
