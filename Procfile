@@ -1,1 +1,1 @@
-web: node./MyRandomUser/server.jsgi
+web: node./MyRandomUser/server.js
