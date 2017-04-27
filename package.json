@@ -4,7 +4,7 @@
   "description": "Random User Generator REST API in Node.js",
   "main": "MyRandomUser/server.js",
   "scripts": {
-    "start": "node.MyRandomUser/server.js"
+    "start": "node ./server.js"
   },
   "keywords": [
     "node",
