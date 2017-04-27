@@ -11,5 +11,8 @@
     "generator"
   ],
   "author": "K. Rahimi",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
 }
